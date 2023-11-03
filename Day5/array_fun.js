@@ -24,3 +24,4 @@ console.log(numbers)
 console.log("unshift")
 numbers.unshift(100,200)
 console.log(numbers)
+
